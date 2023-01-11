@@ -14,9 +14,7 @@
   
   - We scored overall win as TOP1 team with total score of 4.75
   
-  - Leader board and feedback recieved by our team can be accessed in PDF (Marked with yellow is feedback that is targeted on my own work)
-
-  <b>I participated as Team leader during spirnt #3 and my responsiblities were:</b>
+<b>I participated as Team leader during spirnt #3 and my responsiblities were:</b>
 
   - All work was distributed equally and to maximise output of our teams strenghts
 
@@ -27,3 +25,7 @@
   - Final decider if contradictions occur
 
   - Main team spirit igniter
+  
+<b>Files about </b>
+
+  - Leader board and feedback recieved by our team can be accessed in PDF (Marked with yellow is feedback that is targeted on my own work)
