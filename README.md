@@ -29,3 +29,5 @@
 <b>Files about </b>
 
   - Leader board and feedback recieved by our team can be accessed in PDF (Marked with yellow is feedback that is targeted on my own work)
+  
+  - Team workflow - Teams bases, Project coordinators, Communication, Working approaches, Workflow
