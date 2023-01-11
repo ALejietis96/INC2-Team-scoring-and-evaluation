@@ -1,6 +1,6 @@
 # Team scoring and evaluation
 
-<b>During Income marketplace project sprint #1 and #2 teams were evaluated of their:</b>
+<b>During Income marketplace project sprint #3 and #4 teams were evaluated of their:</b>
 
   - Number of properly reported bugs (gave 10%)
   
@@ -16,7 +16,7 @@
   
   - Leader board and feedback recieved by our team can be accessed in PDF (Marked with yellow is feedback that is targeted on my own work)
 
-  <b>I participated as Team leader during spirnt #1 and my responsiblities were:</b>
+  <b>I participated as Team leader during spirnt #3 and my responsiblities were:</b>
 
   - All work was distributed equally and to maximise output of our teams strenghts
 
