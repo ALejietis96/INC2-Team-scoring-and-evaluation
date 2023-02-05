@@ -8,7 +8,7 @@
   
   - Quality of testing documentation (gave 45%)
   
-<b>Teams recieved feedback at the end of sprints for their work that they have done.</b>
+<b>Teams recieved feedback at the end of sprints for their work that they have done:</b>
   
   - Our team was Squad #6 and we were 3 testers, for each sprint there was one team leader.
   
@@ -26,8 +26,8 @@
 
   - Main team spirit igniter
   
-<b>Files about </b>
+<b>Files about: </b>
 
-  - Leader board and feedback recieved by our team can be accessed in PDF (Marked with yellow is feedback that is targeted on my own work)
+  - <i>Teams scoring and evaluation.pdf</i> - Leader board and feedback recieved by our team can be accessed in PDF (Marked with yellow is feedback that is targeted on my own work)
   
-  - Team workflow - Teams bases, Project coordinators, Communication, Working approaches, Workflow
+  - <i>Team workflow.pdf</i> - Teams bases, Project coordinators, Communication, Working approaches, Workflow
