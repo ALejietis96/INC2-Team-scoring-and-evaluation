@@ -30,6 +30,6 @@
 
   <i>If in the file there are highlights with yellow, those are topics, where mentors mention my work.</i>
 
-  - <i>Teams scoring and evaluation.pdf</i> - Leader board and feedback recieved by our team can be accessed in PDF (Marked with yellow is feedback that is targeted on my own work)
+  - <i>[Teams scoring and evaluation.pdf</i>](https://github.com/ALejietis96/INC2-Team-scoring-and-evaluation/blob/main/Teams%20scoring%20and%20evaluation.pdf) - Leader board and feedback recieved by our team can be accessed in PDF (Marked with yellow is feedback that is targeted on my own work)
   
-  - <i>Team workflow.pdf</i> - Teams bases, Project coordinators, Communication, Working approaches, Workflow
+  - <i>[Team workflow.pdf</i>](https://github.com/ALejietis96/INC2-Team-scoring-and-evaluation/blob/main/Team%20workflow.pdf) - Teams bases, Project coordinators, Communication, Working approaches, Workflow
