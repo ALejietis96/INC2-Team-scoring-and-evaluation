@@ -28,6 +28,8 @@
   
 <b>Files about: </b>
 
+  <i>If in the file there are highlights with yellow, those are topics, where mentors mention my work.</i>
+
   - <i>Teams scoring and evaluation.pdf</i> - Leader board and feedback recieved by our team can be accessed in PDF (Marked with yellow is feedback that is targeted on my own work)
   
   - <i>Team workflow.pdf</i> - Teams bases, Project coordinators, Communication, Working approaches, Workflow
